@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="ICSM Logo" style="max-width: 100%; height: auto;">
+</p>
+
 # Imperial College School of Medicine (ICSM) Coding Society R Programming Course
 
 ## Course Overview
